@@ -8,7 +8,7 @@ Different components on the Arduino board, are discussed here. We will study the
 
 Looking at the board from the top down, this is an outline of what you will see (parts of the board you might interact with in the course of normal use are highlighted):
 
-![UNO](/Overview%20of%20the%20Arduino%20Components.md/arduino_board.png)
+![UNO](/Images/arduino_board.png)
 
 Starting clockwise from the top center:
 - Analog Reference pin (orange)  
