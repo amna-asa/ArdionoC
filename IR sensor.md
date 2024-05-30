@@ -13,7 +13,7 @@ Actice IR sensor emmits and detect infrated radiations, it is made up of two par
 - **light emmitinf diode** : tramsmits Infrared radiations 
 - **Photodiode** : recives Infrared radiations 
 
-![AIR](/Overview%20of%20the%20Arduino%20Components.md/AIR.PNG)
+![AIR](/Images/AIR.PNG)
 
 When an object approaches the sensor, the infrared light from the LED bounces off the item and is recognized by the receiver.
 
@@ -22,7 +22,7 @@ Active IR sensors act as proximity sensors, and they are commonly used in obstac
 ### Passive IR sensor
 Passive infrared (PIR) sensors detect infrared radiation but do not emit it via an LED. PIR sensors are most typically utilized for motion detection in home security systems.
 
-![PIR](/Overview%20of%20the%20Arduino%20Components.md/PIR.PNG)
+![PIR](/Images/PIR.PNG)
 
 moving item emitting infrared radiation approaches the detector's detecting range, the IR level difference between the two pyroelectric elements is monitored.
 
